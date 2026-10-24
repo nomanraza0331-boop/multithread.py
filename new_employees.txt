@@ -1,0 +1,3 @@
+noman	101	297
+sawez	102	192
+nawaz	103	309
